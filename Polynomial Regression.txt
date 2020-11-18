@@ -1,0 +1,17 @@
+Name: Polynomial Regression
+
+Description: Polynomial regression is used in cases where the features and the target variabkes don't show a linear relationship but rather can be described using some other polynomial equations
+
+Algorithm:
+
+1) Import necessary libraries
+
+2) Import dataset
+
+3) Clean the data if required, remove all the redundant columns which can lead to leak in data and reduce the model performance
+
+4) First, we build a polynomial features object which will transform the dataset to add the polynomial features
+
+5) Next we build a linear regression object which will take the newly transformed features and the target varibales
+
+6) We then print the predicted values

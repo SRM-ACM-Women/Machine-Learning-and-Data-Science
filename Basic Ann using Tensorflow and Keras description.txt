@@ -1,0 +1,11 @@
+Name: Basic Ann using Tensorflow and Keras
+
+Concept: Artificial Neural Networks
+
+Algorithm:
+Step 1) Import the data
+Step 2) Transform the data
+Step 3) Split the data into Training and testing data
+Step 4) Build the model
+Step 5) Train and evaluate the model
+Step 6) Improve the model
