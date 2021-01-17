@@ -2,16 +2,44 @@
 Series of notebooks that walks through the fundamentals of machine learning and data science.
 
 Important Algorithms for a beginner to learn and implement Machine Learning:
-> Linear Regression
-> Logistic Regression
-> K-Nearest Neighbours
-> K-Means Clustering
-> Naive Bayes
-> SVMs
-> Decision Trees
-> Random Forest
-> Dimensionality Reduction Algorithms
-> Gradient Boosting algorithms- XGBoost, GBM, LightGBM, CatBoost
+  > Linear Regression
+  > Logistic Regression
+  > K-Nearest Neighbours
+  > K-Means Clustering
+  > Naive Bayes
+  > SVMs
+  > Decision Trees
+  > Random Forest
+  > Dimensionality Reduction Algorithms
+  > Gradient Boosting algorithms- XGBoost, GBM, LightGBM, CatBoost
+  
+### Topics Covered:
+
+- naive-bayes
+- Basic-Computer Vision 
+- Basic_ANN_using_Keras_and_Tensorflow
+- Breast_Cancer_Prediction
+- Callbacks
+- Classification model
+- Credit Card Fraud Detection
+- Detecting_Masks
+- Diabetes_dataset_with_Neural_Networks_and_validation_split
+- Fashion_MNIST_dataset_with_Neural_Networks
+- Heart_disease_prediction
+- Linear regression
+- Logistic Regression
+- Mask Detection
+- OpenCV_Webcam
+- Polynomial Regression
+- RandomForestClassifier
+- Sentiment_analysis
+- Stock Price Prediction
+- Summarizer
+- Training_the_CNN
+- Vanilla-Autoencoder
+- spam identifier
+- topicExtraction
+
 
 > ### Issue 
 
