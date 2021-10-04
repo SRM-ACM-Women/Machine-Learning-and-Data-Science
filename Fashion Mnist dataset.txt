@@ -1,0 +1,24 @@
+Name:- Fashion Mnist dataset 
+
+Description: - Mnist dataset is a collection of black and white images which can be used to build a simple CNN to classify the images into 10 or more predefined classes
+
+Algorithm:
+1) Load the necessary libraries
+
+2) Load the dataset
+
+3) We build a list to store the labels or the pre defined classes 
+
+4) Convert the images into a image arrays and change the dimensions
+
+5) Then normalize the image arrays by dividing every pixel value by 255 to reduce them to 0-1
+
+6) Then we build the model
+
+7) Add the necessary optimizers
+
+8) Fit the model with the training dataset
+
+9) Print the loss vs epoch graphs
+
+10) Then we print the predictions
