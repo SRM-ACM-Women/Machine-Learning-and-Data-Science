@@ -1,0 +1,20 @@
+Name:- Diabetes Dataset using Neural Networks
+
+Description:- The given dataset is pre cleaned regression dataset which can be used to apply and practoce simple ML Models, so here the model is a basic Neural Network which is used to predict the values.
+
+Algorithm:
+
+1) We import the necessary libraries.
+
+2) We load the dataset.
+
+3) We split the dataset into training and testing dataset
+
+4) We build the model
+
+5) Compile the model with the help of compile method
+
+6) Train the model with the help of fit method
+
+7) We plot the loss vs epoch graph and the scatter plot to show the difference in the prediction and actual values
+
