@@ -39,6 +39,7 @@ Important Algorithms for a beginner to learn and implement Machine Learning:
 - Vanilla-Autoencoder
 - spam identifier
 - topicExtraction
+- SVM Classifier
 
 
 > ### Issue 
