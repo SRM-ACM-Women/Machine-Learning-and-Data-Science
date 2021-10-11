@@ -40,6 +40,7 @@ Important Algorithms for a beginner to learn and implement Machine Learning:
 - spam identifier
 - topicExtraction
 - SVM Classifier
+- MLP Classifier
 
 
 > ### Issue 
